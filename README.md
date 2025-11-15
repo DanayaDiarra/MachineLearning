@@ -6,22 +6,8 @@ A comprehensive collection of deep learning projects spanning computer vision, n
 
 📁 Repository Structure
 text
-DeepLearning-Projects/
-├── computer_vision/
-│   ├── object_detection/
-│   ├── image_classification/
-│   └── segmentation/
-├── nlp/
-│   ├── text_classification/
-│   ├── language_modeling/
-│   └── sentiment_analysis/
-├── generative_ai/
-│   ├── gan_projects/
-│   ├── diffusion_models/
-│   └── style_transfer/
-├── reinforcement_learning/
-├── model_serving/
-└── experiments/
+<img width="309" height="354" alt="image" src="https://github.com/user-attachments/assets/cee9f439-7b0a-4f23-8c13-6fcb20aaa93f" />
+
 🛠 Technical Stack
 Core Frameworks
 
